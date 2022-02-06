@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Bookodemia/app/src/main/res/drawable-v24/ic_border_user.xml" value="0.202734375" />
+        <entry key="..\:/Bookodemia/app/src/main/res/drawable/chevron_right.xml" value="0.17533783783783785" />
+        <entry key="..\:/Bookodemia/app/src/main/res/drawable/ic_baseline_menu_book_24.xml" value="0.2703125" />
+        <entry key="..\:/Bookodemia/app/src/main/res/drawable/ic_button_next.xml" value="0.202734375" />
+        <entry key="..\:/Bookodemia/app/src/main/res/drawable/ic_person.xml" value="0.202734375" />
+        <entry key="..\:/Bookodemia/app/src/main/res/drawable/ic_right.xml" value="0.2" />
+        <entry key="..\:/Bookodemia/app/src/main/res/drawable/user_alt.xml" value="0.202734375" />
+        <entry key="..\:/Bookodemia/app/src/main/res/layout/activity_book_details.xml" value="0.20471014492753623" />
+        <entry key="..\:/Bookodemia/app/src/main/res/layout/activity_details.xml" value="0.190625" />
+        <entry key="..\:/Bookodemia/app/src/main/res/layout/activity_home.xml" value="0.20471014492753623" />
+        <entry key="..\:/Bookodemia/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/Bookodemia/app/src/main/res/layout/activity_main.xml" value="0.1503205128205128" />
+        <entry key="..\:/Bookodemia/app/src/main/res/layout/activity_sigin.xml" value="0.2" />
+        <entry key="..\:/Bookodemia/app/src/main/res/layout/fragment_details.xml" value="0.190625" />
+        <entry key="..\:/Bookodemia/app/src/main/res/layout/fragment_home.xml" value="0.2" />
+        <entry key="..\:/Bookodemia/app/src/main/res/layout/fragment_list.xml" value="0.24010416666666667" />
+        <entry key="..\:/Bookodemia/app/src/main/res/layout/fragment_user.xml" value="0.2" />
+        <entry key="..\:/Bookodemia/app/src/main/res/layout/item_cardview_home.xml" value="0.264" />
+        <entry key="..\:/Bookodemia/app/src/main/res/layout/prueba.xml" value="0.190625" />
+        <entry key="..\:/Bookodemia/app/src/main/res/menu/bottom_menu.xml" value="0.25416666666666665" />
+        <entry key="app/src/main/res/layout/activity_details.xml" value="0.20885416666666667" />
+        <entry key="app/src/main/res/layout/activity_home.xml" value="0.20885416666666667" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.20885416666666667" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.20885416666666667" />
+        <entry key="app/src/main/res/layout/activity_sigin.xml" value="0.20885416666666667" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.20885416666666667" />
+        <entry key="app/src/main/res/layout/fragment_list.xml" value="0.20885416666666667" />
+        <entry key="app/src/main/res/layout/fragment_user.xml" value="0.20885416666666667" />
+        <entry key="app/src/main/res/layout/item_cardview_home.xml" value="0.20885416666666667" />
+        <entry key="app/src/main/res/menu/bottom_menu.xml" value="0.20885416666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

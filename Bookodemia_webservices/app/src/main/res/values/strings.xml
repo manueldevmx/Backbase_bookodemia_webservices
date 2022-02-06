@@ -1,0 +1,78 @@
+<resources>
+
+    <!--SharedPreferences-->
+    <string name="name_file_preferences">com.txl.abx.desafio.sharePreferencesPro</string>
+
+    <!--keys de API-->
+    <string name="key_token">plain-text-token</string>
+
+    <!--Metodos de API-->
+    <string name="api_login">login</string>
+    <string name="api_libros">books</string>
+    <string name="api_registro">register</string>
+    <string name="api_logout">logout</string>
+
+    <!--Errores-->
+    <string name="error_internet">No tienes internet </string>
+    <string name="campo_vacio">Campo vacio</string>
+    <string name="error_correo">Correo no valido</string>
+    <string name="error_422">Este correo ya esta utilizado</string>
+
+    <!--Cambios de string-->
+    <string name="Mockupchange">%s</string>
+    <string name="Autorchange">%s</string>
+    <string name="Categoriachange">%s</string>
+
+    <string name="app_name">Bookodemia</string>
+    <string name="bienvenida_login">¡Bienvenido!</string>
+    <string name="textCorreo">Correo</string>
+    <string name="textPass">Contraseña</string>
+    <string name="buttonLogin">INICIAR SESION</string>
+    <string name="textSigin">¿Todavía no tienes cuenta? Regístrate</string>
+    <string name="textUsuario">Usuario</string>
+    <string name="textConfirmPass">Confirmar Contraseña</string>
+    <string name="buttonSigin">CREAR CUENTA</string>
+    <string name="textReturn">&lt; Regresar</string>
+    <string name="shorttextSigin">Estas a unos cuantos pasos de vivir la mejor experiencia</string>
+    <string name="titleCarViewSigin">Registra tu información</string>
+    <string name="hola">Hola</string>
+    <string name="userName">Manuel De la Cruz</string>
+    <string name="populares">Más populares</string>
+    <string name="libros">Libros</string>
+    <string name="categorias">Categorías</string>
+    <string name="autores">Autores</string>
+    <string name="agregados">Recién agregados</string>
+    <string name="titulo_libro">Titulo</string>
+    <string name="autor_libro">by Autor</string>
+    <string name="categoria_libro">Categoría</string>
+    <string name="book_mockup">Book Mockup</string>
+    <string name="lorem_Ipsum">When an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</string>
+    <string name="lorem_Ipsum_Det">Estos son los detalles, ID del libro: %s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum</string>
+    <string name="lorem_Ipsum_Des">%s. Esta es una descripción, is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s</string>
+    <string name="description">Descripción</string>
+    <string name="detalles">Detalles</string>
+    <string name="autor_about">Sobre el Autor</string>
+    <string name="autor_name">Nombre del autor</string>
+    <string name="error">Error</string>
+    <string name="listado">Listado de libros</string>
+    <string name="terror">Terror</string>
+    <string name="comedia">Comedia</string>
+    <string name="histórico">Histórico</string>
+    <string name="cuento">Cuento</string>
+    <string name="textCom">Descripción de los libros de Comedia. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters</string>
+    <string name="texthis">Descripción de los libros de Historia. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour</string>
+    <string name="textTer">Descripción de los libros de Terror. Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old</string>
+    <string name="textCue">Descripción de los libros de Cuentos. The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33</string>
+    <string name="hola_name">Manuel De la Cruz</string>
+    <string name="unirse">Se unió en Enero de 2022</string>
+    <string name="encanta">Te gusta la Ciencia Ficción</string>
+    <string name="librosgustados">Estos son los libros que te gustaron</string>
+    <string name="librospendientes">Estos son los libros que te faltan por leer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="cerrar_sesion">Cerrar Sesión</string>
+    <string name="tv_confi">Configuración</string>
+    <string name="tv_ayuda">Obten ayuda</string>
+    <string name="btn_volver_leer">Volver a leer</string>
+    <string name="btn_seguir_leyendo">Seguir leyendo</string>
+</resources>
